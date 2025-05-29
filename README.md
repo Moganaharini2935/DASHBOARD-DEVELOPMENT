@@ -22,3 +22,8 @@ The dashboard also includes KPI cards to display total sales and profit, offerin
 
 Each visual element in the dashboard was carefully formatted for clarity, consistency, and ease of use. Colors were chosen to differentiate categories and segments clearly, and the layout was organized in a logical, user-friendly manner. Overall, the final dashboard presents a well-rounded, interactive, and visually appealing view of the Global Superstore’s sales data. It enables business users to uncover trends, identify growth opportunities, and make data-driven decisions with confidence.
 
+OUTPUT: 
+
+<img width="668" alt="Image" src="https://github.com/user-attachments/assets/bd5d1145-d77b-4556-9302-1ee38aec5594" />
+
+https://github.com/user-attachments/assets/0c290d07-7d63-4e00-a34f-a09ca43dc757
